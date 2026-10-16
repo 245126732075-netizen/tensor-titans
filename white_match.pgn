@@ -1,0 +1,10 @@
+[Event "AI KNOCOUT Exhibition Match"]
+[Site "Windows Localhost"]
+[Date "2026.10.16"]
+[White "AI_Knockout"]
+[Black "Stockfish_19"]
+[Result "0-1"]
+[TimeControl "0.3+0"]
+[Termination "Checkmate! Stockfish_19 wins!"]
+
+1. b1c3 d7d5 2. g1f3 g8f6 3. d2d4 e7e6 4. e2e3 c7c5 5. f1e2 a7a6 6. e1g1 b8c6 7. e2d3 c5c4 8. d3e2 b7b5 9. a2a3 f8d6 10. c1d2 e8g8 11. a1c1 a8b8 12. f1e1 b8b7 13. c1b1 a6a5 14. b1c1 b5b4 15. a3b4 a5b4 16. c3a4 f6e4 17. h2h3 d8c7 18. h3h4 h7h6 19. h4h5 c8d7 20. c1a1 e6e5 21. d4e5 c6e5 22. f3e5 d6e5 23. f2f4 e5f6 24. e2f3 f8d8 25. d1e2 c4c3 26. d2c1 d7b5 27. e2d1 b5a4 28. a1a4 c3b2 29. c1d2 e4d2 30. d1d2 f6c3 31. d2e2 c3e1 32. e2d1 e1g3 33. f4f5 c7c5 34. g1h1 c5e3 35. a4a2 b7e7 36. d1f1 e3e1 37. f3e2 e7e2 38. a2a1 b2a1q 39. f1e1 e2e1 0-1

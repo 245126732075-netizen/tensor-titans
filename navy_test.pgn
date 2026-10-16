@@ -1,0 +1,10 @@
+[Event "NAVY Exhibition Match"]
+[Site "Windows Localhost"]
+[Date "2026.10.16"]
+[White "NAVY"]
+[Black "NAVY-Test"]
+[Result "1-0"]
+[TimeControl "0.5+0"]
+[Termination "Checkmate! NAVY wins!"]
+
+1. b1c3 b8c6 2. g1f3 g8f6 3. d2d4 d7d5 4. e2e3 e7e6 5. f1d3 f8d6 6. c3b5 e8g8 7. b5d6 d8d6 8. e1g1 c8d7 9. f1e1 c6b4 10. d3e2 f6e4 11. f3d2 e4f6 12. d2f3 f6e4 13. f3d2 e4f6 14. c2c3 b4c6 15. d1b3 a8b8 16. e2d3 e6e5 17. a1b1 e5e4 18. d3b5 d7e6 19. b5e2 f8e8 20. c3c4 e6f5 21. c4d5 f6d5 22. d2c4 d6e6 23. c1d2 e8d8 24. b1d1 f5g4 25. e2g4 e6g4 26. d2c3 g4f5 27. h2h3 f5e6 28. b3c2 b7b5 29. c4a5 c6b4 30. c3b4 d5b4 31. c2c7 e6a2 32. a5c6 b4c6 33. c7c6 a2d5 34. c6d5 d8d5 35. d1a1 d5d7 36. a1a5 d7c7 37. b2b3 h7h5 38. d4d5 b8b7 39. d5d6 c7c2 40. e1d1 c2b2 41. d1d4 b2b1 42. g1h2 f7f5 43. d6d7 b7d7 44. d4d7 a7a6 45. a5a6 b1b2 46. a6a7 g8h7 47. d7g7 h7h6 48. h2g3 b5b4 49. h3h4 b2b3 50. g7d7 b3e3 51. f2e3 f5f4 52. g3f4 h6g6 53. a7a6 1-0
